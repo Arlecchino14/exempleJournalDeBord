@@ -12,11 +12,11 @@ J'aime beaucoup les oeuvres de Van Gogh et j'aime la manière dont cette exposit
 ### [Musée VR](https://www.ledevoir.com/culture/arts-visuels/552264/cinema-sur-toile?) 
 J'aime beaucoup l'art et j'ai adoré y être immersé. Je trouve cela très intéressant de donner vie à une oeuvre, de permettre au spectateur d'y prendre part et de le laisser vivre ce moment comme s'il en faisait partie, surtout lorsqu'il s'agit d'oeuvres cultes qu'il connait. L'utilisation du VR combiné au son a permis de créer une expérience unique en son genre et j'aimerais être capable de faire de même.
 
-### [L'heure mauve](https://www.mbam.qc.ca/fr/expositions/nicolas-party-lheure-mauve/)
-Ce que j'aime avec cette expositision c'est la possibilité d'immersion. Chaque pièce à un thème et un cartel avec les morceaux musicaux de l'album de Pierre Lapointe, *L'heure mauve*, qui est conseillé d'écouté. Pour en avoir fait les expérience, la musique ajoute une touche immersive complémentaire aux oeuvres d'art. 
+### [Hollow Knight](https://store.steampowered.com/app/367520/Hollow_Knight/)
+Il s'agit de mon jeu vidéo préféré. J'adore le style artistique et l'histoire sombre qui se cache derrière ce style un peu mignon. C''est aussi un bel exemple de jeu *simple* réalisé par peu de personnes avec peu de compétences, mais qui donne un résultat incroyable et de l'espoir pour tous ceux qui veulent faire des jeux.
 
-### [Doki Doki Literature Club!](https://ddlc.moe/)
-J'aime beaucoup le mélange de deux univers diamétralement opposé. Ça permet de surprendre et de renforcir les effets désirés. J'aime aussi beaucoup comment le jeu réagit avec le joueur en brisant le quatrième mur, en allant chercher des informations sur l'utilisateur de l'ordinateur et lorsque le joueur modifie le code source du jeu. Ce dernier point est une belle innovation et ça l'ajoute une touche original et captivante que j'adore.
+### [Spider-Man: Across the Spider-Verse](https://www.imdb.com/title/tt9362722/)
+Je pense qu'on ne peut pas ne pas souligner le personnage de Spider-Punk. J'aimerais arriver un jour à un stade où je peux avoir l'audace de faire transparaître le caractère d'un personnage pas la façon dont il est fait *behind the scene*. Ça devait être un défi à faire, mais le résultat visuel est incroyable
 
 ### [The Matrix](https://www.allocine.fr/film/fichefilm_gen_cfilm=19776.html) 
 Mis à part le fait que visuellement j'aime l'esthétique du film, **J'ADORE** la trame narrative de la série. On peut y voir pleins de thèmes différents, mais aujourd'hui celui de la machine contre l'humain est toujours d'actualité et épeurant, surtout avec l'avenue des IA en art. 

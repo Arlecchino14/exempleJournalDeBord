@@ -12,10 +12,10 @@ J'aime beaucoup occuper ce rôle dans les projets car cela nécessite de la rech
 
 ### Emploi 3 - Artiste technique en jeu vidéo
 Les artistes techniques doivent avoir de bonnes connaisances en tant qu'artiste (2D OU 3D), mais aussi en programmation. Cela leur permet de résoudre des problèmes dans la création d'assets ou leurs intégrations dans le moteur de jeu. C'est un emploi beaucoup plus répandu dans les studios de jeu AAA. Les studios Indie préfèrent les engager en tant que pigiste si cela est nécessaire. <
-C'est un travail que j'aime bien car je comprend bien comment faire les assets et j'ai des bases correctes en programmation ce qui me permet de bien saisir comment l'un marche avec l'autre
+C'est un travail que j'aime bien car je comprend bien comment faire les assets et j'ai des bases correctes en programmation ce qui me permet de bien saisir comment l'un marche avec l'autre. Ce qui est complexe (mais là où on passe pour des génies) c'est qu'on doit servir de pont entre les artistes et les programmeurs et qu'il peut être difficile de vulgariser ce qui devrait être fait et pourquoi.
 
 ### Emploi 4 - Webmaster
-4 à 5 lignes
+Les webmestres conçoivent, développent et entretiennent dans sites web. Ce que j'aime avec ce métier c'est qu'il est accesible aux personnes qui ont peu voir aucune connaissance en programmation. La connaisance du code sert alors à bonifier et déjouer les limitations des CMS comme Wordpress. C'est un métier que je trouve à la fois technique et artistique. Il faut bien réfléchir à l'ergonomie de son site, mais aussi à son design pour le rendre beau et intéressant. En soi, ce qui me gènerait avec ce métier est le côté programmation. Heureusement, cela est facilement déjouable, mais tout dépend de comment l'employeur désire que son site soit réalisé.
 
 ### Emploi 5 - Mineure en Informatique (UDEM) (DESS en design de jeu vidéo (UQAC))
 Il s'agit d'une mineure afin d'avoir une bonne base en informatique pour aller compléter mon BAC. Par la suite, je pourrais aller faire le DESS en design de jeu vidéo qui nécessite au minimum un BAC. Ce programme va me permettre d'avoir l'occasion de bien mettre en pratique ce que j'ai appris lors de mes autres programmes d'études et de travailler sur un projet de jeu vidéo que je pourrais utiliser pour mon portfolio.
